@@ -11,6 +11,8 @@ Languages:
           Web Essentials
               - HTML
               - CSS
+              - Jquery
+              - Responsive Web Design
               
               
               
